@@ -1,0 +1,10 @@
+{
+    "name": "anderson/laravel-location",
+    "authors": [
+        {
+            "name": "Anderson",
+            "email": "anderson@sinprosp.org.br"
+        }
+    ],
+    "require": {}
+}
